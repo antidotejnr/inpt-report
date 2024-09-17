@@ -1,4 +1,4 @@
-![Screenshot_20240917_223645](https://github.com/user-attachments/assets/7d20ce80-5ade-4b75-bed9-7f74179ead03)# Internal Network Penetration Test
+# Internal Network Penetration Test
 
 ## FOR VIRTUAL INFOSEC AFRICA
 
@@ -60,4 +60,3 @@ With test user credentials, lateral movement was performed across the network. T
 ### DETAILED FINDINGS.
 to discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
 ![Screenshot_20240917_223645](https://github.com/user-attachments/assets/c1897b74-3b94-400d-84ed-51a4e576fce9)
-![My Screenshot](https://github.com/user-attachments/assets/c1897b74-3b94-400d-84ed-51a4e576fce9)
