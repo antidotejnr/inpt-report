@@ -57,6 +57,6 @@ The testing process began by using industry-standard vulnerability scanning tool
 
 With test user credentials, lateral movement was performed across the network. Testers discovered that all domain users had local administrator rights on multiple hosts, allowing them to escalate their privileges and capture domain administrator credentials. This access provided control over a significant portion of the network, including sensitive data stores and point-of-sale (POS) devices.
 
-### DETAILED FINDINGS.
+### DETAILED FINDINGS.
 
 to discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
