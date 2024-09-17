@@ -58,12 +58,12 @@ The testing process began by using industry-standard vulnerability scanning tool
 With test user credentials, lateral movement was performed across the network. Testers discovered that all domain users had local administrator rights on multiple hosts, allowing them to escalate their privileges and capture domain administrator credentials. This access provided control over a significant portion of the network, including sensitive data stores and point-of-sale (POS) devices.
 
 ### DETAILED FINDINGS.
-to discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
+To discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
 ![Project Screenshot](images/Screenshot1.png)
 
 * I used Nmap because it efficiently identifies active devices on a network by scanning IP addresses and analyzing open ports. It also provides detailed information about the hosts' operating systems, services, and potential vulnerabilities, which is crucial for network security assessments.
 
 * To filter my output and save them into a file ,I will use the "grep" command to extract the lines where hosts are marked as "Host is up" and save them into a UP hosts.txt file ;A demonstration is as follows;
-  ![Project Screenshot](images/screenshot2.png)
+  ![Project Screenshot](images/Screenshot2.png)
 
 
