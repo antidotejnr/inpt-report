@@ -59,4 +59,4 @@ With test user credentials, lateral movement was performed across the network. T
 
 ### DETAILED FINDINGS.
 to discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
-![Project Screenshot](images/screenshot1.png)
+![Project Screenshot](images/Screenshot1.png)
