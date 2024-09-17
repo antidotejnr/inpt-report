@@ -64,6 +64,6 @@ To discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
 * I used Nmap because it efficiently identifies active devices on a network by scanning IP addresses and analyzing open ports. It also provides detailed information about the hosts' operating systems, services, and potential vulnerabilities, which is crucial for network security assessments.
 
 * To filter my output and save them into a file ,I will use the "grep" command to extract the lines where hosts are marked as "Host is up" and save them into a UP hosts.txt file ;A demonstration is as follows;
-  ![Project Screenshot](images/Screenshot2.png)
+![Project Screenshot](images/Screenshot2.png)
 
 
