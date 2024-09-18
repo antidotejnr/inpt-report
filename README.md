@@ -67,5 +67,5 @@ To discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
 ![Project Screenshot](images/Screenshot2.png)run the tool to enumerate subdomains. Below is a basic command you can use:
 
 * To run a subdomain Enumeration on the domain using the aiodnsbrute tool, the following was performed;
-![Project Screenshot](images/Screenshot3.png)
+![Project Screenshot](images/screenshot3.png)
 This command will start the subdomain brute-forcing process against virtualinfosecafrica.com using the default wordlist included in aiodnsbrute.
