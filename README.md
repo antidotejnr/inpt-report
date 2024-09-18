@@ -74,7 +74,22 @@ This command will start the subdomain brute-forcing process against virtualinfos
 Service discovery and port scanning are essential after identifying active hosts because they reveal open ports and running services, helping map the attack surface. This process allows you to identify potential vulnerabilities, determine service versions, and audit for unauthorized or misconfigured services.
 
 To perform a service discovery on the ip range 10.10.10.0/24 using  nmap i did this;
+![Project Screenshot](images/Screenshot4.png)
 
+To separate the Nmap scan results into their respective protocols (such as HTTP, HTTPS, MySQL, etc.),I used simple grep commnads ;below is all that i did;
+For HTTP Services (ports 80, 8080, 443 etc):
+![Project Screenshot](images/Screenshot5.png)
+
+For MySQL Services;
+![Project Screenshot](images/Screenshot6.png)
+For VNC Services:
+![Project Screenshot](images/Screenshot7.png)
+For RDP Services:
+![Project Screenshot](images/Screenshot8.png)
+For Telnet Services:
+![Project Screenshot](images/Screenshot9.png)
+For SMTP Services:
+![Project Screenshot](images/Screenshot10.png)
 
 
 
