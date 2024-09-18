@@ -63,10 +63,9 @@ To discover the host of 10.10.10.0/24 ;i used the nmap command as shown below;
 
 * I used Nmap because it efficiently identifies active devices on a network by scanning IP addresses and analyzing open ports. It also provides detailed information about the hosts' operating systems, services, and potential vulnerabilities, which is crucial for network security assessments.
 
-* To filter my output and save them into a file ,I will use the "grep" command to extract the lines where hosts are marked as "Host is up" and save them into a Up_host.txt file ;A demonstration is as follows;
+  * To filter my output and save them into a file ,I will use the "grep" command to extract the lines where hosts are marked as "Host is up" and save them into a Up_host.txt file ;A demonstration is as follows;
 ![Project Screenshot](images/Screenshot2.png)run the tool to enumerate subdomains. Below is a basic command you can use:
 
 * To run a subdomain Enumeration on the domain using the aiodnsbrute tool, the following was performed;
-
-
-
+![Project Screenshot](images/Screenshot3.png)
+This command will start the subdomain brute-forcing process against virtualinfosecafrica.com using the default wordlist included in aiodnsbrute.
