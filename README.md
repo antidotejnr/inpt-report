@@ -94,32 +94,32 @@ For SMTP Services:
 
 ### Vulnerabities associated with available Services.
 With the use of CVE ,I was able to have some insights on some of the vulnerabilities associated with the following services;
-* Apache httpd 2.4.49;
+**Apache httpd 2.4.49**
 ![Project Screenshot](images/Screenshot11.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=+Apache+httpd
 
-* MySQL 5.6.49;
+**MySQL 5.6.49**
 ![Project Screenshot](images/Screenshot12.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=MySQL+5.6.49
 
-* RealVNC 5.3.2
+**RealVNC 5.3.2**
 ![Project Screenshot](images/Screenshot13.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=RealVNC+5.3.2
 
-* Microsoft Terminal Services
+**Microsoft Terminal Services**
 ![Project Screenshot](images/Screenshot14.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Microsoft+Terminal+Services
 
-* Exim smtpd 4.92
+**Exim smtpd 4.92**
 ![Project Screenshot](images/Screenshot15.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Exim+smtpd+4.92
 
-* BSD telnetd
+**BSD telnetd**
 ![Project Screenshot](images/Screenshot15.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=BSD+telnetd
@@ -129,12 +129,12 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=BSD+telnetd
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Windows+7+-+Samba+file+sharing
 
-* **Samba 3.6.25**
+**Samba 3.6.25**
 ![Project Screenshot](images/Screenshot17.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Samba+3.6.25
 
-* UltraVNC 1.2.1.7
+**UltraVNC 1.2.1.7**
 ![Project Screenshot](images/Screenshot18.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=UltraVNC+1.2.1.7
