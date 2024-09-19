@@ -124,12 +124,12 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Exim+smtpd+4.92
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=BSD+telnetd
 
-* Windows 7 - Samba file sharing
+**Windows 7 - Samba file sharing**
 ![Project Screenshot](images/Screenshot16.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Windows+7+-+Samba+file+sharing
 
-* *Samba 3.6.25*
+* **Samba 3.6.25**
 ![Project Screenshot](images/Screenshot17.png)
 #### Reference link;
 https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=Samba+3.6.25
