@@ -92,4 +92,13 @@ For SMTP Services:
 ![Project Screenshot](images/Screenshot10.png)
 
 
+### Vulnerabities associated with available Services.
+With the use of CVE ,I was able to have some insights on some of the vulnerabilities associated with the following services;
+* Apache httpd 2.4.49;
+![Project Screenshot](images/Screenshot11.png)
+#### Reference link;
+https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=+Apache+httpd
+
+
+
 
